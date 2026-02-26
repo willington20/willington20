@@ -1,9 +1,14 @@
 ## Hi there 👋
 
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
 <!--
 **willington20/willington20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -39,7 +44,6 @@ Here are some ideas to get you started:
 
 
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsky1t&show_icons=true&theme=dark)
 
 
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
