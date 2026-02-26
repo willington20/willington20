@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </p>
   </td>
     <td valign="top" width="50%">
-      <img src="Timg src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"" alt="coding" width="100%" />
+     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" width =50% height=50% align = "right"> 
     </td>
  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
