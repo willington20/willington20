@@ -48,7 +48,10 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
 </p>
-
+  </td>
+    <td valign="top" width="50%">
+      <img src="Timg src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"" alt="coding" width="100%" />
+    </td>
  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 EMPIEZA
