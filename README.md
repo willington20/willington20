@@ -103,16 +103,7 @@ EMPIEZA
     <td align="center">
       <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" /><br>Laravel
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      &nbsp;
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" /><br>Bootstrap
-    </td>
-  </tr>
-</table>
+	  
 TERMINA
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
