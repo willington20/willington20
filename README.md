@@ -49,6 +49,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
 </p>
 
+ <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 EMPIEZA
 ## 🛠️ Technologies & Tools
