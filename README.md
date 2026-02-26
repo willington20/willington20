@@ -102,6 +102,8 @@ TERMINA
 
 ## 🛠️ Technologies & Tools
 
+<## 🛠️ Technologies & Tools
+
 <table>
   <tr>
     <th>Language</th>
@@ -115,10 +117,47 @@ TERMINA
       <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" /><br>GitHub
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" /><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" /><br>VS Code
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" /><br>Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" /><br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" /><br>PHP
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" /><br>Laravel
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      &nbsp;
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" /><br>Bootstrap
+    </td>
+  </tr>
 </table>
-
-
-
 
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
