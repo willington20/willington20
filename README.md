@@ -45,6 +45,22 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 
+EMPIEZA 
+
+<h3 align="Center">Languages and Tools:</h3>  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
+
+
+
+TERMINA
+
+
+
+
 
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
@@ -54,6 +70,8 @@ Here are some ideas to get you started:
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
      <a style="margin-left: 10px;" target="_blank" href="mailto://ketanchowdhury@protonmail.com">
        <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50">
+
+
 
 
 
