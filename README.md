@@ -56,13 +56,12 @@ TERMINA
 
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-     <a style="margin-left: 10px;" target="_blank" href="https://github.com/dexprexxtion">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-     <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/dexprexxtion">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://github.com/dexprexxtion">
+	<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
      <a style="margin-left: 10px;" target="_blank" href="mailto://ketanchowdhury@protonmail.com">
-       <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50">
-	   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" style="height: 4rem" />
+    <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" style="height: 4rem" />
 
 
 
