@@ -100,6 +100,22 @@ EMPIEZA
 
 TERMINA
 
+## 🛠️ Technologies & Tools
+
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" /><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" /><br>GitHub
+    </td>
+  </tr>
+</table>
 
 
 
