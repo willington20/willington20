@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-
+[![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingsky1t&count_private=true&show_icons=true&theme=dark)](https://github.com/Kingsky1t/github-readme-stats)
 
 
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
