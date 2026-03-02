@@ -25,19 +25,16 @@ Here are some ideas to get you started:
 COMIENZA
 
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=willington20&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+# 📊 GitHub Stats![](https://github-readme-stats.vercel.app/api?username=willington20&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=willington20&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=willington20&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+:
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/willington20/count.svg"/>
-  <br/>
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=willington20&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
