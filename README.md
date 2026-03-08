@@ -55,9 +55,7 @@ TERMINA
   <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
 </p>
-    <td valign="top" width="50%">
-     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" width =50% height=50% align = "right"> 
-    </td>
+   
 
 EMPIEZA
 https://github.com/willington20/laBrasaDorada 
