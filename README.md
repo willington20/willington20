@@ -63,10 +63,18 @@ TERMINA
 
 EMPIEZA
 https://github.com/willington20/laBrasaDorada 
-Este es proyecto para que visualicen exploren docker y vean un proyecto por ahora  
+
+<img width="1829" height="1007" alt="image" src="https://github.com/user-attachments/assets/ff6ae469-a0da-49e4-89de-e34849d52298" />
+
+
+Este es el proyecto que realice para que visualicen exploren docker y vean un proyecto por ahora vendras mas  
 
 TERMINA
 
+
+CONTACTAME : <img width="179" height="44" alt="image" src="https://github.com/user-attachments/assets/302979fa-718c-4d2b-85d7-a1f208cb7638" />
+ 3143623861 
+ 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 	<a style="margin-left: 10px;" target="_blank" href="https://github.com/dexprexxtion">
 	<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
