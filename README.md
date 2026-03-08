@@ -24,11 +24,15 @@ Here are some ideas to get you started:
 -->
 COMIENZA
 (https://github.com/willington20/laBrasaDorada)
+<img width="1748" height="1005" alt="image" src="https://github.com/user-attachments/assets/5b1c25b5-472e-441d-9f2d-502f5ffbcf21" />
+
 ![](https://github-readme-stats.vercel.app/api?username=willington20&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=willington20&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=willington20&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 https://github.com/willington20/laBrasaDorada
+<img width="1725" height="719" alt="image" src="https://github.com/user-attachments/assets/69e9053d-ad94-4900-ab6f-61ec0464545d" />
+
 TERMINA
 
 ## 🛠️ Technologies & Tools
