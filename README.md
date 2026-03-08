@@ -74,6 +74,7 @@ TERMINA
 
 CONTACTAME : <img width="179" height="44" alt="image" src="https://github.com/user-attachments/assets/302979fa-718c-4d2b-85d7-a1f208cb7638" />
  3143623861 
+ beatzack@gmail.com 
  
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 	<a style="margin-left: 10px;" target="_blank" href="https://github.com/dexprexxtion">
